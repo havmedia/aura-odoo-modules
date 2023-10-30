@@ -1,0 +1,1 @@
+from . import test_aura_metadata_endpoint
